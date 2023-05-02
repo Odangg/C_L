@@ -2,18 +2,21 @@
 
 int main()
 {
-	print_title_screen();
 	int game_state = 1;
 	int input = 0;
-	int answer = 1;
+	int answer;
 	int menu_off = 1;
 
 	while(game_state)
 	{
+		if(menu_off)
+		{
+			print_title_screen();
+		}
 		answer = 1;
 		printf("input(1~3)>");
 		scanf("%d",&input);
-		
+
 		if(input==2)
 		{
 			while(answer)
@@ -36,7 +39,7 @@ int main()
 				}
 				else if(answer==2)
 				{
-					answer = 1;
+					menu_off = 1;
 				}
 				else
 				{
