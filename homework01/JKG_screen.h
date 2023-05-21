@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
-extern char screen[1000];  /* 가로 50 세로 20 메인화면 */
-
-int screen_clear();
-int Main_screen();
-int Sry_screen();
-int Help_screen();
-int Char_select_screen();
-int Collection_screen();
-
+int screen_clear(char* screen);
+int Main_screen(char* screen);
+int Sry_screen(char* screen);
+int Help_screen(char* screen);
+int Char_select_screen(char* screen);
+int Collection_screen(char* screen);
+int Write_Screen(char* screen, const char* string, int x, int y);
