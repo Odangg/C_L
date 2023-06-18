@@ -504,11 +504,11 @@ void Battle(char* screen, int Num)
 	int Battle_On = 1;
 	int Battle_On_2 = 1;
 	char BattleGo = '0';
-	static int PlayerHp = 60;
-	static int PlayerAtk = 25;
-	static int Level = 12;
+	static int PlayerHp = 10;
+	static int PlayerAtk = 3;
+	static int Level = 1;
 	static int Exp = 0;
-	static int LevelUp = 90;
+	static int LevelUp = 5;
 	 
 	while (Battle_On)
 	{
