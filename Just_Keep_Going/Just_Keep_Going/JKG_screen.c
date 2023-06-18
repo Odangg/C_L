@@ -118,16 +118,16 @@ void Help_screen(char* screen)
     Set_cursorpos(0, 0);
     char select = '0';
     int helpon = 1;
-    char mesg1[] = "턴제 로그라이크RPG게임입니다.";
+    char mesg1[] = "턴제 로그라이크 게임입니다.";
     char mesg2[] = "게임에서 나오는 선택지중 원하는걸";
-    char mesg3[] = "고르고 자신의 입맛대로 캐릭터를";
+    char mesg3[] = "고르고 캐릭터를 열심히";
     char mesg4[] = "키워나가는 게임입니다.";
     char mesg5[] = "Just Keep Going!!";
     char mesg6[] = "아무키나 누르시면 메인으로 돌아갑니다.";
 
-    Write_Screen(screen, mesg1, 211, 1);
+    Write_Screen(screen, mesg1, 212, 1);
     Write_Screen(screen, mesg2, 259, 1);
-    Write_Screen(screen, mesg3, 310, 1);
+    Write_Screen(screen, mesg3, 314, 1);
     Write_Screen(screen, mesg4, 365, 1);
     Write_Screen(screen, mesg5, 666, 1);
     Write_Screen(screen, mesg6, 856, 1);

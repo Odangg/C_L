@@ -1,8 +1,4 @@
-﻿  GameObject.c
-C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(537,16): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(541,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
-C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(629,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
-C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(715,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
-C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(803,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
-C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(899,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
+﻿  JKG_screen.c
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\JKG_screen.c(52,18): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\JKG_screen.c(112,11): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   Just_Keep_Going.vcxproj -> C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\x64\Debug\Just_Keep_Going.exe
