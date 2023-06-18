@@ -1,0 +1,8 @@
+﻿  GameObject.c
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(361,34): warning C4020: 'MonsterAttack': 실제 매개 변수가 너무 많습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(367,34): warning C4020: 'MonsterAttack': 실제 매개 변수가 너무 많습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(384,16): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(388,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(435,34): warning C4020: 'MonsterAttack': 실제 매개 변수가 너무 많습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(440,34): warning C4020: 'MonsterAttack': 실제 매개 변수가 너무 많습니다.
+  Just_Keep_Going.vcxproj -> C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Debug\Just_Keep_Going.exe

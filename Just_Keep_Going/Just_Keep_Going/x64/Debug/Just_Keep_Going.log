@@ -1,0 +1,8 @@
+﻿  GameObject.c
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(537,16): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(541,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(629,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(715,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(803,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
+C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\Just_Keep_Going\GameObject.c(899,32): warning C4020: 'MyCharAttack': 실제 매개 변수가 너무 많습니다.
+  Just_Keep_Going.vcxproj -> C:\Users\ard12\OneDrive\바탕 화면\C++\HW\Yuhan\Just_Keep_Going\x64\Debug\Just_Keep_Going.exe
