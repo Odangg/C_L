@@ -41,11 +41,6 @@ void Stage_1(char* screen)
 			Stage_1_2(screen);
 			break;
 		}
-		if (select == '4')
-		{
-			Battle(screen, 0);
-			break;
-		}
 	}
 }
 
